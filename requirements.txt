@@ -1,6 +1,7 @@
+streamlit
+streamlit-autorefresh
 opencv-python
 opencv-contrib-python
 numpy
 pandas
-streamlit
 scikit-learn
