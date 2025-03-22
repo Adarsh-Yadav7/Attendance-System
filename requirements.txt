@@ -1,8 +1,6 @@
 opencv-python
+opencv-contrib-python
 numpy
-scikit-learn
 pandas
 streamlit
-streamlit-autorefresh
-pyttsx3
-pypiwin32
+scikit-learn
